@@ -1,8 +1,8 @@
-#Welcome to Classboard!
+# Welcome to Classboard!
 This website originally started on Google Sites, and I'm moving it to a repo.
 It's going to allow me to expand this website faster and better
 
-#Features
+# Features
 - Google Services
 - Games
 - Powerschool
@@ -13,5 +13,5 @@ It's going to allow me to expand this website faster and better
 - Minecraft
 - Downloadables
 
-#It's being constantly updated too!
+# It's being constantly updated too!
 We try to keep content fresh with weekly updates.
